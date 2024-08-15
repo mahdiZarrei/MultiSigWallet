@@ -19,7 +19,7 @@ A MultiSigWallet is akin to a bank vault that requires multiple keys to open. In
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/username/MultiSigWallet.git
+git clone https://github.com/mahdiZarrei/MultiSigWallet.git
 cd MultiSigWallet
 npm install
 # or
